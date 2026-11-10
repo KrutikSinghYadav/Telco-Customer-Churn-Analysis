@@ -12,6 +12,7 @@ Python was used for data cleaning, exploratory data analysis, and machine learni
 Customer churn is a major challenge for subscription-based businesses. Understanding why customers leave helps companies improve customer satisfaction, strengthen retention strategies, and reduce revenue loss.
 
 In this project, I analyzed the Telco Customer Churn dataset to:
+
 - Understand overall customer churn patterns.
 - Identify customer segments with higher churn rates.
 - Analyze the relationship between contract type and customer churn.
@@ -55,36 +56,42 @@ The interactive Tableau dashboard presents customer distribution, churn rate, ch
 
 ### Dashboard Preview
 
-![Telco Customer Churn Dashboard](assets/dashboard.png)
+![Telco Customer Churn Dashboard](<Screenshot 2026-05-26 165053.png>)
 
 ### Root Cause Analysis
 
-![Root Cause Analysis](assets/root_causes.png)
+![Root Cause Analysis](<Screenshot 2026-05-26 165120.png>)
 
 ### Major Root Causes
 
-![Major Root Causes](assets/major_root_cause.png)
+![Major Root Causes](<Screenshot 2026-05-26 165134.png>)
 
 ---
 
 ## Key Areas of Analysis
 
 ### 1. Customer Distribution
+
 Analyzed the distribution of customers across different categories and service segments.
 
 ### 2. Churn Rate by Contract
+
 Examined churn patterns across different contract types to understand which customer groups may require stronger retention efforts.
 
 ### 3. Churn Rate by Tenure
+
 Analyzed the relationship between customer tenure and churn to identify potential retention opportunities at different stages of the customer lifecycle.
 
 ### 4. Technical Support and Services
+
 Investigated churn patterns across service categories, including technical support and online security.
 
 ### 5. Revenue at Risk
+
 Analyzed monthly revenue associated with customers who may be lost due to churn.
 
 ### 6. Machine Learning-Based Churn Prediction
+
 Used Python to build a machine learning model and generate customer churn predictions and risk-related outputs.
 
 ---
@@ -141,4 +148,3 @@ It covers the complete analytical workflow, from data cleaning and exploratory a
 
 Bachelor of Engineering – Computer Engineering  
 Thakur College of Engineering and Technology, Mumbai
-
